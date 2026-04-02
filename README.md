@@ -17,7 +17,7 @@ Python · Pandas · R · SQL · Git
 
 ## Certifications
 SAS Institute · IBM SQL · Google Data Analytics
-Advanced Diploma in Clinical SAS Programming (Kliniland)
+Advanced Diploma in Clinical SAS Programming
 
 ---
 nitheshms33@gmail.com
